@@ -79,5 +79,5 @@ theme: pablos_theme
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:pabloum/pabloum.github.io.git
+  repo: git@github.com:pabloum/blog_hexo.git
   branch: gh-pages
