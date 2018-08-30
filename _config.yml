@@ -80,4 +80,4 @@ theme: pablos_theme
 deploy:
   type: git
   repo: https://github.com/pabloum/blog_hexo.git
-  branch: master
+  branch: gh-pages
