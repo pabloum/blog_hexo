@@ -2,7 +2,7 @@
 title: Make it Real
 ---
 
-Make it Real is a fantastic institution that teaches we development to people who are eagerly willing to learn it.
+Make it Real is a fantastic institution that teaches web development to people who are eagerly willing to learn it.
 
 # Topics
 
@@ -18,11 +18,11 @@ We have learned several topics. The most important ones are :
 
 ## HTML
 
-Simple
+Simple tag language
 
 ## CSS
 
-Useful, but I find it annoying sometimes.
+Cool to create amazing renders
 
 ## Ruby  
 
@@ -30,16 +30,16 @@ Very cool and simple. I love it
 
 ## HTTP protocol
 
-Tough to understand at the beginning, but I managed to understand it at the end
+Important to get to know it
 
 ## Sinatra
 
-Ehm. Cool
+Useful gem to create not very robust web applications
 
 ## Ruby on Rails
 
-Fantastic
+Fantastic to create complex applications
 
 ## JavaScript
 
-Unbelievable 
+Unbelievable, fantastic create amazing UI.
